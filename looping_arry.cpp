@@ -13,6 +13,6 @@ int main()
     cout<<endl <<sum<<endl;
     cout<<endl <<mul<<endl;
     return 0;
-
+// so perfectly we have learned about using loops in array
 
 }
