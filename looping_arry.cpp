@@ -14,5 +14,6 @@ int main()
     cout<<endl <<mul<<endl;
     return 0;
 // so perfectly we have learned about using loops in array
-
+//i H
+// just now i have connected my two pc with mouse without border really yaar microsoft company is really freaking cool man i can't believe this tech    now on day i am also going to join microsoft really one day i will   and i can i believe in gods plan... 
 }
